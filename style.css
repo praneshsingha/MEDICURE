@@ -1,0 +1,26 @@
+#home_img{
+	min-width: 100px;
+    min-height: 650px; 
+    background-image: url("image/medical-background-97.jpg");
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-attachment: fixed;
+    left: 0;
+  	right: 0;
+  	z-index: 1;
+}
+.loginblock
+{
+  background-color: white; 
+  margin-top: -80px;
+  min-height: 400px;
+}
+.sec2
+{
+
+}
+
+/*----------------------------footer css code -----------------------------------------*/
+
+/*----------------------------footer end-------------------------------------*/
